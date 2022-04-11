@@ -1,4 +1,4 @@
-### hola mundo👋
+### Hola Mundo👋
 
 <!--
 **franja87/franja87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
